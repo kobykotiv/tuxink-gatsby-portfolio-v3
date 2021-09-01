@@ -14,8 +14,8 @@ module.exports = {
         name: "Aman Mittal Portfolio",
         short_name: "Aman Mittal",
         start_url: "/",
-        background_color: "#69359c",
-        theme_color: "#69359c",
+        background_color: "#fff",
+        theme_color: "#aaa",
         display: "minimal-ui",
         icons: [
           {
